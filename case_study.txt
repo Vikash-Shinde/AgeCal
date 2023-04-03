@@ -1,0 +1,6 @@
+1. Bootstrap.
+2. functions in JS.
+3. var let and const (datetypes).
+4. conditations and loops(if and for ).
+5. array and objects(lists). 
+4. DOM objects/methods (document.getElemetnById.inner html.
